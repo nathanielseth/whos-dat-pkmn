@@ -1,1 +1,2 @@
-# whos-dat-pkmn
+# Pokémon Hangman Game
+Simple pokémon hangman game programmed in python.
